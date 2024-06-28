@@ -17,5 +17,14 @@ To use this crate in your Rust project, add it as a dependency in your `Cargo.to
 
 ```toml
 [dependencies]
-matrix-lib = {git = "https://github.com/Spago123/heapless-matrix"}
+heapless_matrix = {git = "https://github.com/Spago123/heapless-matrix"}
 ```
+
+## Note
+From version `0.1.4` the crate has implemented the functionalities to be used in a `no_std` environment.
+
+## Contributing
+We welcome contributions to the Heapless Matrix Library Crate! The goal is to add more features that are connected to matrices and data - analisys such as least - squares, optimization algorithms, singular - value decomposition (SVD), control - algorithms etc... Everything in the context of the heapless - crate and application on bare metal and real - time.
+
+## Contact
+If you have any suggestions how to improve the crate or you encounter possible bugs or have questions feel free to open an issue in the GitHub repository.
