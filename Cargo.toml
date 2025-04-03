@@ -12,4 +12,4 @@ documentation = "https://docs.rs/heapless_matrix/0.1.5/heapless_matrix/"
 
 
 [dependencies]
-heapless = { git = "https://github.com/dsenyushkindev/heapless" }
+heapless = { git = "https://github.com/dsenyushkindev/heapless", rev = "42d6a0367e90705ae781644f76f03648522d0cd7" }
